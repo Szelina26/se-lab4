@@ -12,5 +12,7 @@ SUCCESS
 FAIL
 SUCCESS
 FAIL
+SUCCESS
+FAIL
 Unknown command: 'HELD'
 
